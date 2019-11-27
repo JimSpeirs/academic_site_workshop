@@ -3,22 +3,18 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Some sort of software developer
 
 ## Education
 
 `1990 - 1994`
 __University Name__
-Degree Awarded
-
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+Ba (hons) Lit & Phil.
 
 ## Awards
 
 `2012`
-Name of Award, Organization 
+King of the Universe Award
 
 ## Publications
 
